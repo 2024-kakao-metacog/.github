@@ -6,17 +6,19 @@
 
 2024년 동계 카카오 현장실습 깃허브 조직
 
-[Jenny](https://github.com/hyunjeeChoi) (Mentor)
+**Mentor**
+
+[Jenny](https://github.com/hyunjeeChoi) (Clean Platform CTO)
 
 **Frontend Team**
 
-[Richard](https://github.com/comgog) (Frontend Leader)
+[Richard](https://github.com/comgog) (Frontend Lead)
 
 [Carter](https://github.com/Gukui0516) (Frontend Web Publisher)
 
 **Backend Team**
 
-[Shin](https://github.com/skynet3285) (Project Leader & Backend Leader)
+[Shin](https://github.com/skynet3285) (Team Lead & Backend Lead)
 
 [Kyle](https://github.com/yunsammy) (Database Lead)
 
@@ -42,3 +44,11 @@ PC 웹 애플리케이션 숏폼 스트리밍 플랫폼 서비스
 [Dopameme-FE](https://github.com/2024-kakao-metacog/Dopameme-FE) : 웹 애플리케이션
 
 [Dopameme-BE](https://github.com/2024-kakao-metacog/Dopameme-BE) : 웹 애플리케이션 서버
+
+# 서비스 아키텍처
+
+![architecture](../asset/service_architecture.png)
+
+# 발표자료
+
+**[Canva 발표 자료 보기](https://www.canva.com/design/DAGc_xVPfJc/Iz9oVp3XF-dL3U6CiE7GQw/edit?utm_content=DAGc_xVPfJc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)**
